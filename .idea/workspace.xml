@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8ce5a44-f9bb-4ea0-b175-9125e1aadd81" name="Changes" comment="I push on Github my first project">
+    <list default="true" id="d8ce5a44-f9bb-4ea0-b175-9125e1aadd81" name="Changes" comment="I test new branch test 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668188861649</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="I test new branch test 2">
+      <created>1668274094130</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668274094130</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,6 +87,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="I push on Github my first project" />
-    <option name="LAST_COMMIT_MESSAGE" value="I push on Github my first project" />
+    <MESSAGE value="I test new branch test 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="I test new branch test 2" />
   </component>
 </project>
